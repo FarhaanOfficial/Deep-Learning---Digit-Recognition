@@ -15,7 +15,7 @@ Before running the code, ensure you have the following dependencies installed:
 
 
 ### Installation
-pip install tensorflow numpy
+ - pip install tensorflow numpy
 
 
 ### Usage
